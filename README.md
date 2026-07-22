@@ -255,7 +255,7 @@ Vous pouvez modifier les **hyperparamètres** du modèle directement dans `pyAI.
 Les contributions sont les bienvenues ! Voici comment contribuer :
 
 ### **Signaler un bug**
-1. Vérifiez que le bug n'est pas déjà signalé dans les [issues](https://github.com/votre-utilisateur/KIPP-AI/issues).
+1. Vérifiez que le bug n'est pas déjà signalé dans les [issues](https://github.com/ChevremontLilian/pyAI/issues).
 2. Ouvrez une nouvelle issue avec :
    - Une **description claire** du problème.
    - Les **étapes pour reproduire** le bug.
@@ -284,8 +284,8 @@ Les contributions sont les bienvenues ! Voici comment contribuer :
 
 ## **Contact**
 Pour toute question ou suggestion, ouvrez une **issue** ou contactez-moi via :
-- **Email** : [votre@email.com](mailto:votre@email.com)
-- **GitHub** : [@votre-utilisateur](https://github.com/votre-utilisateur)
+- **Email** : [lilian.chevremont@etu.univ-amu.fr](mailto:lilian.chevremont@etu.univ-amu.fr)
+- **GitHub** : [@ChevremontLilian](https://github.com/ChevremontLilian/)
 
 ---
 
